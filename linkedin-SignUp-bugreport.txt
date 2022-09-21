@@ -1,0 +1,15 @@
+Bug ID: 1
+Title: Can't sign up to linkedin using right credentials
+Severity: Blocker
+Priority: High
+Environment: Macbook Air, macOS 12.4
+Precondition: Sign up to Linkedin
+STR: 
+1. Open linkedin on web browser
+2. Tap “join now” button
+3. Verify sign up with correct email and password
+4. Enter valid first name and last name
+5. Do a security check
+6. An error occurs. System returns user to the start registration page.
+AR
+User can't finish registration and start to use Linkedin. System returns user tothe start registration page.
